@@ -56,6 +56,6 @@ Licenciado por la UPM desde el año 2001 y doctor en informática por la UNED de
 
 ### Referencias
 
-Video: https://goo.gl/5YjJYS
-Slideshare: 
-Github:
+- Video: https://goo.gl/5YjJYS
+- Slideshare: http://goo.gl/PKkLJL
+- Github: https://goo.gl/YywLEj
