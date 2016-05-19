@@ -1,9 +1,9 @@
-La Web Orientada A Componentes
-======================================
+Arquitecturas Para La Reutilización en JavaScript
+=================================================
 
 ### Keywords
 
-Componentes Web · Arquitecturas Software - Frontend - JavaScript - Composición - Encapsulación - Reutilización - Buenas Prácticas - Principios de Diseño - Errores comunes
+Programación Orientada a Componentes - Componentes - Reutilización - Programación - JavaScript - Modelos Arquitectónicos
 
 ### Resumen
 
